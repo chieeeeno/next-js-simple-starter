@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "graphql.vscode-graphql",
+    "orta.vscode-jest",
+    "yoavbls.pretty-ts-errors",
+    "luyizhi.vscode-graphql"
+  ]
+}
